@@ -2,7 +2,7 @@ Action()
 {
 
 	web_custom_request("web_custom_request",
-		"URL=www.example.com",
+		"URL=www.example1.com",
 		"Method=GET",
 		"TargetFrame=",
 		"Resource=0",
